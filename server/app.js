@@ -18,4 +18,4 @@ app.get('*', (req, res) => {
 })
 
 
-app.listen(PORT, () => console.log('Ole cloth ears is listening on port ', port))
+app.listen(PORT, () => console.log('Ole cloth ears is listening on port ', PORT))
